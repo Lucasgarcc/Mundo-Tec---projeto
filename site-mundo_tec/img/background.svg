@@ -1,0 +1,1324 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="320"
+   height="1280"
+   viewBox="0 0 84.666665 338.66668"
+   version="1.1"
+   id="svg839"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="background.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview841"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="true"
+     units="px"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.359375"
+     inkscape:cx="158.6087"
+     inkscape:cy="640"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="0,338.66667"
+       orientation="0,320"
+       id="guide900" />
+    <sodipodi:guide
+       position="84.666667,338.66667"
+       orientation="1280,0"
+       id="guide902" />
+    <sodipodi:guide
+       position="84.666667,0"
+       orientation="0,-320"
+       id="guide904" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-1280,0"
+       id="guide906" />
+    <sodipodi:guide
+       position="-19.142029,170.06957"
+       orientation="0,-1"
+       id="guide2406" />
+  </sodipodi:namedview>
+  <defs
+     id="defs836">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient966">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop962" />
+      <stop
+         style="stop-color:#99c1f1;stop-opacity:1"
+         offset="1"
+         id="stop964" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient966"
+       id="linearGradient968"
+       x1="39.690128"
+       y1="107.02681"
+       x2="39.690128"
+       y2="338.66666"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1,0.91353628)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2404">
+      <rect
+         style="fill:url(#linearGradient968);fill-opacity:1;stroke-width:10.1154;stroke-linecap:round;stroke-linejoin:round"
+         id="rect930"
+         width="84.666672"
+         height="309.38431"
+         x="0"
+         y="-3.0079644e-13" />
+      <rect
+         style="fill:#ffbe6f;fill-opacity:1;stroke-width:10.5833;stroke-linecap:round;stroke-linejoin:round"
+         id="rect1556"
+         width="84.666672"
+         height="29.282362"
+         x="0"
+         y="309.38431" />
+      <g
+         id="g2395">
+        <path
+           style="fill:#986a44;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 0,300.01608 6.5719835,-7.60543 6.4573835,11.69758 9.024895,-16.65933 9.505263,17.91216 4.70476,-7.96145 8.311917,11.99798 -10.437114,2.12778 -2.133878,2.18107 -17.030619,1.75826 -2.181272,2.4624 L 0,319.0048 Z"
+           id="path1668" />
+        <path
+           style="fill:#63452c;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 36.264285,297.39961 8.311917,11.99798 -5.673945,1.12832 z"
+           id="path1867" />
+        <path
+           style="fill:#63452c;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 22.054262,287.4489 9.505263,17.91216 2.579563,6.16431 -2.133878,2.18107 v 0 l -3.864142,-1.622 z"
+           id="path2001"
+           sodipodi:nodetypes="ccccccc" />
+        <path
+           style="fill:#63452c;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 6.5719837,292.41065 6.4573833,11.69758 1.945224,11.35647 -2.181272,2.4624 -5.7570428,0.57134 z"
+           id="path2225" />
+      </g>
+    </g>
+    <g
+       id="g3059"
+       transform="matrix(0.0390625,0,0,0.0390625,14.221353,173.30209)">
+      <g
+         id="g2997">
+        <g
+           id="g2967">
+          <g
+             id="g2924">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path2772" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path2920"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g2930"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path2926" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path2928"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g2981"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g2973">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path2969" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path2971"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g2979"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path2975" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path2977"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3027"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3011">
+          <g
+             id="g3003">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path2999" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3001"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3009"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3005" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3007"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3025"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3017">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3013" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3015"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3023"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3019" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3021"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3121"
+       transform="matrix(0.0390625,0,0,0.0390625,51.263022,162.71875)">
+      <g
+         id="g3089">
+        <g
+           id="g3073">
+          <g
+             id="g3065">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3061" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3063"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3071"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3067" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3069"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3087"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3079">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3075" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3077"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3085"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3081" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3083"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3119"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3103">
+          <g
+             id="g3095">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3091" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3093"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3101"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3097" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3099"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3117"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3109">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3105" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3107"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3115"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3111" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3113"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3183"
+       transform="matrix(0.0390625,0,0,0.0390625,77.721357,130.96873)">
+      <g
+         id="g3151">
+        <g
+           id="g3135">
+          <g
+             id="g3127">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3123" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3125"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3133"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3129" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3131"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3149"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3141">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3137" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3139"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3147"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3143" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3145"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3181"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3165">
+          <g
+             id="g3157">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3153" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3155"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3163"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3159" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3161"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3179"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3171">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3167" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3169"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3177"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3173" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3175"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3245"
+       transform="matrix(0.0390625,0,0,0.0390625,40.679688,99.218713)">
+      <g
+         id="g3213">
+        <g
+           id="g3197">
+          <g
+             id="g3189">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3185" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3187"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3195"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3191" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3193"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3211"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3203">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3199" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3201"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3209"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3205" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3207"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3243"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3227">
+          <g
+             id="g3219">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3215" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3217"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3225"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3221" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3223"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3241"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3233">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3229" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3231"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3239"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3235" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3237"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3307"
+       transform="matrix(0.0390625,0,0,0.0390625,13.002097,55.536006)">
+      <g
+         id="g3275">
+        <g
+           id="g3259">
+          <g
+             id="g3251">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3247" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3249"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3257"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3253" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3255"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3273"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3265">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3261" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3263"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3271"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3267" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3269"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3305"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3289">
+          <g
+             id="g3281">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3277" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3279"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3287"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3283" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3285"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3303"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3295">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3291" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3293"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3301"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3297" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3299"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3369"
+       transform="matrix(0.0390625,0,0,0.0390625,37.599452,35.08236)">
+      <g
+         id="g3337">
+        <g
+           id="g3321">
+          <g
+             id="g3313">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3309" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3311"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3319"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3315" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3317"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3335"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3327">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3323" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3325"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3333"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3329" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3331"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3367"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3351">
+          <g
+             id="g3343">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3339" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3341"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3349"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3345" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3347"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3365"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3357">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3353" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3355"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3363"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3359" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3361"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3431"
+       transform="matrix(0.0390625,0,0,0.0390625,21.94256,5.9339045)">
+      <g
+         id="g3399">
+        <g
+           id="g3383">
+          <g
+             id="g3375">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3371" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3373"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3381"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3377" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3379"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3397"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3389">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3385" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3387"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3395"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3391" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3393"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3429"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3413">
+          <g
+             id="g3405">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3401" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3403"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3411"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3407" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3409"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3427"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3419">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3415" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3417"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3425"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3421" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3423"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3493"
+       transform="matrix(0.0390625,0,0,0.0390625,21.94256,5.9339045)">
+      <g
+         id="g3461">
+        <g
+           id="g3445">
+          <g
+             id="g3437">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3433" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3435"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3443"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3439" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3441"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3459"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3451">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3447" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3449"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3457"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3453" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3455"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3491"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3475">
+          <g
+             id="g3467">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3463" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3465"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3473"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3469" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3471"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3489"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3481">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3477" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3479"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3487"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3483" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3485"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3555"
+       transform="matrix(0.0390625,0,0,0.0390625,72.737809,44.147063)">
+      <g
+         id="g3523">
+        <g
+           id="g3507">
+          <g
+             id="g3499">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3495" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3497"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3505"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3501" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3503"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3521"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3513">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3509" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3511"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3519"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3515" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3517"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g3553"
+         transform="matrix(0.625,0.625,-0.625,0.625,121.70833,37.041669)">
+        <g
+           id="g3537">
+          <g
+             id="g3529">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3525" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3527"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3535"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3531" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3533"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+        <g
+           id="g3551"
+           transform="rotate(90,42.333335,169.33333)">
+          <g
+             id="g3543">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3539" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3541"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+          <g
+             id="g3549"
+             transform="matrix(1,0,0,-1.0087337,0,338.66667)">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 57.649669,168.5971 H 42.333335 Z"
+               id="path3545" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 42.333335,0 27.017001,168.5971 h 15.316334 z"
+               id="path3547"
+               inkscape:transform-center-x="-11.448555"
+               inkscape:transform-center-y="-7.5696315" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
