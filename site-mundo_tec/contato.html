@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css"><link href="https://fonts.googleapis.com/css?family=Titillium+Web:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,900" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" />
+  <title>Mundo Tec</title>
+</head>
+<body>
+  <header id="header">
+    <img id="logo" src="imagem/logo.png">
+    <nav id="nav">
+      <div id="btn-menu">
+        <span id="hamburger"></span>
+      </div>
+      <ul id="menu">
+        <li><a href="html.html" >HTML</a></li>
+        <li><a href="css.html">CSS</a></li>
+        <li><a href="javascript.html">JavaScript</a></li>
+        <li><a href="frameworks.html">Frameworks</a></li>
+        <li><a href="contato.html" class="active">Contatos</a></li>
+      </ul>
+    </nav>
+  </header>
+    <section class="formulario" onsubmit=" return valida()">
+      
+        <form>
+        <h2 class="subtitulo-claro">Fale comigo</h2>
+        <label for="nome">Nome</label>
+        <input type="text" id="nome"  class="input-padrao" placeholder="Nome Completo">
+        <label for="sobrenome">Sobrenome</label>
+        <input type="text" id="sobrenome" class="input-padrao" placeholder="Sobrenome Completo">
+        <label for="email">E-mail</label>
+        <input type="email" id="email" class="input-padrao" placeholder="seuemail@dominio.com">
+        <label for="telefone">Telefone</label>
+        <input type="tel" id="telefone" class="input-padrao"  placeholder="(99) 99999-9999">
+        <label class="lab-titulo">Quais dessas qualidades você tem ?</label>
+        <input type="checkbox" value="Proeficiencia"> <span>Proeficiência</span>
+        <input type="checkbox" value="Criatividade"> <span>Criatividade</span>
+        <input type="checkbox" value="Comunicativa"> <span>Comunicativa</span>
+        <label class="lab-titulo">Fale sobre você?</label>
+        <textarea cols="70" rows="10" id="mensagem" class="input-padrao" placeholder="Escreva seu texto aqui" required></textarea><br>
+        <input type="submit" value="Enviar" class="enviar" >
+        <input type="reset" value="Apagar" class="apagar">
+        </form>
+      </section>
+       <span class="descricao">
+        Sou estudante, aprendendo web desenvolvimento e aprocura de um emprego na área.
+       </span>
+    <footer>
+      <h3 class="titulo-footer">Siga-me nas redes sociais</h3>
+      <a href="#" class="link-image"><img src="imagem/icone_face.png" class="imag-footer"></a>
+      <a href="#"class="link-image"><img src="imagem/icone_insta.png" class="imag-footer"></a>
+      <a href="#"class="link-image"><img src="imagem/icone_git.png" class="imag-footer"></a>
+      <a href="#" class="link-image"><img src="imagem/icone_linkdin.png" class="imag-footer"></a>
+      <div>
+          <span class="copyright"> 	&copy; Desenvolvido por: Lucas Garcia - 2022</span>
+      </div>
+    </footer>
+  </section>
+  <script>
+  function valida(){
+    if(document.getElementById('nome').value == "") {  
+      alert("Prencha o campo nome! ⚠");
+      document.getElementById('nome').focus();
+      return false;
+    }
+
+    if(document.getElementById('sobrenome').value == ""){   
+      alert("Prencha o campo sobrenome! ⚠");
+      document.getElementById('sobrenome').focus();
+      return false;
+    }
+
+    if(document.getElementById('telefone').value == ""){   
+      alert("Prencha o campo telefone! ⚠");
+      document.getElementById('telefone').focus();
+      return false;
+    }
+
+    if(document.getElementById('email').value == ""){   
+      alert("Prencha o campo email ! ⚠");
+      document.getElementById('email').focus();
+      return false;
+    } 
+            
+    if(senha2.value.length < 7){
+      alert("A senha deve conter 8 digitos! ⚠");
+      return false;
+    }
+            
+    alert("Cadastro Concluído! ✔ ");
+    return true; 
+  }           
+  </script>
+  
+</body>
+</html>
