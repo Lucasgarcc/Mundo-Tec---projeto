@@ -1426,11 +1426,14 @@ h1{
 
 .content-box1{
  /* imagem */
-  background-image: url('../imagem/header\ -\ background3.png');
-  background-repeat: no-repeat;
- background-size: contain;
-  width: 100%;
-  height: 300px;
+ background-image: url(../imagem/header\ -\ background\ -\ 2.png);
+ background-repeat: no-repeat;
+ background-repeat: no-repeat;
+ width: 100%;
+ height: 100%;
+ background-size:contain ;
+ max-width: 90%;
+ height: 290px;
 }
 
 .texto-1{
