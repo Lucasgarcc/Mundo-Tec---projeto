@@ -1,0 +1,352 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css"><link href="https://fonts.googleapis.com/css?family=Titillium+Web:200,200italic,300,300italic,regular,italic,600,600italic,700,700italic,900" rel="stylesheet" /><link href="https://fonts.googleapis.com/css?family=Inter:100,200,300,regular,500,600,700,800,900" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,100italic,300,300italic,regular,italic,500,500italic,700,700italic,900,900italic" rel="stylesheet" />
+  <link rel="icon" type="image/png" sizes="16x16"  href="/favicons/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="theme-color" content="#ffffff">
+  <title>Mundo Tec</title>
+</head>
+<body>
+  <header id="header">
+    <img id="logo" src="imagem/logo.png">
+    <nav id="nav">
+      <button  aria-label="Abrir Menu" id="btn-menu" aria-haspopup="true" aria-controls="menu" aria-expanded="false">
+        <span id="hamburger"></span>
+      </button>
+      <ul id="menu" role="menu">
+        <li><a href="index.html" class="active">HTML</a></li>
+        <li><a href="css.html">CSS</a></li>
+        <li><a href="javascript.html">JavaScript</a></li>
+        <li><a href="frameworks.html">Frameworks</a></li>
+        <li><a href="#">Contatos</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section>
+    <!--carrosel-->
+    <div class="box-slide">
+      <div class="carrosel-container">
+        <div class="slides fade">
+          <div class="numText"></div>
+          <img src="imagem/imag1.jpg" style="width: 100%;" class="image-slide">
+          <div></div>
+        </div>
+        <div class="slides fade">
+          <img src="imagem/imag2.jpg" style="width: 100%;" class="image-slide">
+          <div class="text"></div>
+        </div>
+        <div class="slides fade">
+          <div class="numText"></div>
+          <img src="imagem/imag3.png" style="width: 100%;" class="image-slide">
+          <div class="text"></div>
+        </div>
+        <div class="slides fade">
+          <div class="numText"></div>
+          <img src="imagem/img4.jpg" style="width: 100%;" class="image-slide">
+          <div class="text"></div>
+        </div>
+        <a class="prev" onclick="pluslides(-1)">❮</a>
+        <a class="next" onclick="pluslides(1)">❯ </a>
+        <div style="text-align:center">
+          <span class="ponto" onclick="slideAtual(1)"></span>
+          <span class="ponto" onclick="slideAtual(2)"></span>
+          <span class="ponto" onclick="slideAtual(3)"></span>
+          <span class="ponto" onclick="slideAtual(4)"></span>
+        </div>
+      </div> <!-- carrosel-container-->
+    </div>
+  </section> 
+      <div class="div-front">
+        <div>
+          <h1>FRONTEND</h1>
+        </div>
+        <div class="box-front">
+            <p>O desenvolvimento front-end da web é o desenvolvimento da interface gráfica do usuário de um site, por meio do uso de HTML, CSS e JavaScript, para que os usuários possam visualizar e interagir com aquele site.</p>
+        </div>
+      </div>
+      <div class="content-1">
+        <div class="content-box1 "><!--colocar como background-image no css-->
+          <span class="texto-1">Desenvolvimento Web</span>
+          <p class="texto-2">Olá, desenvolvedor inicante vamos abordar</p>
+          <p class="texto-2">os principais conceitos sobre o que é HTML?</p>
+        </div>
+          <div class="texto-content1 ">
+            <h2>HTML </h2>
+            <h3>Conceitos do HTML </h3>
+            <div>
+              <p> <strong>HTML</strong> significa Hypertext Markup Language ou Linguagem de Hipertexto por Anotações  e não é uma linguegem de programação (<strong>Linguagem de marcação de texto</strong> ), é uma implementação simultânea da norma ISO 8879:1986 SGML (Standard Generalized Markup language) e da norma ISO 10744:1992 HyTime (Hypermedia/Time-based Document Structuring Language.
+              Embora não tenha sido concebida para ser aplicada a hipertextos, a SGML define um padrão segundo o qual documentos tradicionais podem ser transformados em hyper-objetos.
+             Já o HyTime é um padrão que define formas de representação e estruturação de hipermídia, como também qualquer informação temporal.</p> 
+            </div> 
+          </div>
+      </div>  
+          <div class="container">
+            <div class="card">
+              <div class="card-image html-1" ></div>
+                <div class="texto-item">
+                  <input type="checkbox" class="trigger-input" id="titulo-1">
+                  <div class="trigger-wrapper"> 
+                      <label for="titulo-1">
+                        <h3 class="foq-titulo">HTML 5</h3>
+                      </label>
+                        <p class="conteudo"> Documentos HTML 5 podem ser interpretados por navegadores. A tecnologia que pode ser implementado conteúdos textos, imagens, videos e audios. </p>
+                  </div>
+                </div>
+              </div> 
+            <div class="card">
+              <div class="card-image html-2"></div>
+              <div class="texto-item">
+                <input type="checkbox" class="trigger-input" id="titulo-2">
+                <div class="trigger-wrapper">
+                  <label for="titulo-2">
+                    <h3 class="foq-titulo">Index</h3>
+                  </label> 
+                  <p class="conteudo">html é o ficheiro (arquivo) que em muitos servidores web é servido por default (padrão) caso o URL requisitado corresponda a um directório. Geralmente é o primeiro ficheiro (arquivo) de um web.</p>
+                </div>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-image html-3"></div>
+                <div class="texto-item">
+                  <input type="checkbox" class="trigger-input" id="titulo-3">
+                  <div class="trigger-wrapper">
+                    <label for="titulo-3">
+                      <h3 class="foq-titulo">Tags</h3>
+                    </label> 
+                    <p class="conteudo">
+                    <strong>Tags</strong> é um código usado para marcar o início e, onde for requerido, o fim de um <strong>elemento HTML</strong>. Há, como exposto acima, tags de abertura e de fechamento.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+        <div class="container-divs">
+        <div class="content-2">
+          <div>
+             <h2>HTML: Linguagem de Marcação de Hipertexto</h2>
+             <p>As páginas da web podem e serão muito diferentes umas das outras, mas todas tendem a compartilhar componentes padrão semelhantes, a menos que a página exiba um vídeo ou um jogo em tela cheia, seja parte de algum tipo de projeto de arte ou seja mal estruturada:</p>
+             <h3>cabeçalho (header)</h3> 
+             <p>Normalmente, uma grande faixa na parte superior com um grande título e / ou logotipo. É aí que as principais informações comuns sobre um site geralmente ficam de uma página para outra.</p> 
+             <h3>barra de navegação</h3>
+             <p>Links para as principais seções do site; geralmente representado por botões de menu, links ou guias. Como o cabeçalho, esse conteúdo geralmente permanece consistente de uma página para outra - ter uma navegação inconsistente em seu site levará a usuários confusos e frustrados. Muitos web designers consideram a barra de navegação parte do cabeçalho em vez de um componente individual, mas isso não é um requisito; na verdade, alguns também argumentam que ter os dois separados é melhor para acessibilidade, já que os leitores de tela podem ler melhor os dois recursos se estiverem separados.</p>
+             <h3> conteúdo principal</h3>
+             <p>Uma grande área no centro que contém a maior parte do conteúdo exclusivo de uma determinada página da Web, por exemplo, o vídeo que você deseja assistir ou a história principal que você está lendo ou o mapa que deseja visualizar ou as manchetes de notícias, etc. Esta é a única parte do site que definitivamente irá variar de página para página!</p>
+              barra lateral (sidebar)
+              Algumas informações periféricas, links, cotações, anúncios etc. Geralmente, isso é contextual ao conteúdo principal (por exemplo, em uma página de um artigo de notícias, a barra lateral pode conter a biografia do autor ou links para artigos relacionados), mas há também casos em que você encontrará alguns elementos recorrentes como um sistema de navegação secundário.
+              <h3>rodapé (footer)</h3>
+              <p>Uma faixa na parte inferior da página que geralmente contém letras pequenas, avisos de direitos autorais ou informações de contato. É um lugar para colocar informações comuns (como o cabeçalho), mas geralmente essas informações não são críticas ou secundárias ao próprio site. O rodapé também é usado às vezes para fins de SEO, fornecendo links para acesso rápido a conteúdo popular. Um "site típico" poderia ser colocado assim:</p>
+              <img  src="imagem/correto.ong.gif" >
+          </div>
+
+        </div>
+          <div class="box-img">
+            <img src="imagem/estrutura.jpg">
+          </div>
+        <div class="content-3">
+          <h2>Informação Gerais</h2><br>
+          <h3>ATRIBUTOS: "Elelementos"</h3>
+          <p>
+            Atributos são informações que passamos na Tag para que ela se comporte da maneira esperada.
+          </p>
+          <p>
+            <strong>Atributos Universais:</strong>
+          </p>
+          <p>
+            As classes são uma forma de identificar um grupo de elementos. Através delas, pode-se atribuir formatação a VÁRIOS elementos de uma vez. Exemplo:
+          </p>
+          <p>
+            <strong> div class: "classe1"</strong>
+          </p>
+          <p>
+            Depois de adcionar uma div class no seu html, você consiguirá editar os elementos, apenas selecionando aquela classe, pois ela vai estar redirecionada aos elementos.
+          </p>
+          <p>
+            As ids são uma forma de identificar um elemento, e devem ser <strong>únicas</strong> para cada elemento.
+            Ao acrescentar um id no seu html, poderá seleciona-lo indicando o id em que tal está redirecionado
+            Vemos assim que a diferença é que um id é único e o class é mais geral.
+          </p>
+          <p>
+            <strong>
+              TAGS MAIS USADAS</strong>
+              <ul>
+                <li>A declaração "!DOCTYPE" deve ser a primeira coisa no seu documento HTML, antes da tag "html".</li>
+                <li>A tag  <strong>a</strong> define um hiperlink, que é usado para vincular de uma página para outra.</li>
+                <li>A tag <strong> article  </strong>especifica conteúdo independente, separando então em artigos</li>
+                <li> A tag <strong>audio</strong> serve para colocar um audio na página ;)</li>
+                <li>A tag <strong>body</strong> define o corpo do documento.</li>
+                <li>A tag <strong>caption</strong>define uma legenda da tabela.</li>
+                <li> A tag  <strong>del</strong>  define o texto que foi excluído de um documento.</li>
+                <li>A tag <strong>div</strong> define uma divisão ou seção em um documento HTML.</li>
+                <li> A tag <strong>em</strong> serve para enfatizar o texto</li>
+                <li>A marca <strong>font</strong> especifica a face da fonte, o tamanho da fonte e a cor do texto. Temos então alguns tipos (muito USADAS dentro do <strong>CSS- estiliza texto</strong> )
+                  <strong>font family</strong>: estilo da letra
+                  <strong>font size</strong>: tamanho
+                  <strong>font color </strong>: cor</li>
+                <li>A tag <strong>footer</strong> define um rodapé para um documento ou seção</li>
+                <li>As tags  <strong>h1</strong> h1 > até o <strong>h6</strong> são usadas para definir títulos HTML.</li>
+                <li>O elemento <strong>head</strong> é um contêiner para todos os elementos principais.</li>
+                <li>A tag  <strong>ul</strong> define uma lista não ordenada (com marcadores), e <strong>ol</strong> uma lista ordenada. Ambas usam a tag <strong>li</strong> para representar um item da lista</li>
+                <li>A tag <strong>title</title></strong> é necessária em todos os documentos HTML e define o título do documento.</li>
+                <li>A tag <strong>strong</strong></strong> deixa o texto em negrito</li>
+                <li>A tag <strong>select</strong> define seções em um documento, como capítulos, cabeçalhos, rodapés ou quaisquer outras seções do documento.</li>
+                <li>A tag <strong>p</strong> define um parágrafo.</li>
+                <li>A tag <strong>nav</strong>   define um conjunto de links de navegação.</li>
+                <li>A tag  <strong>mark </strong> define o texto marcado.</li>
+                <li>A tag <strong>img</strong> define uma imagem em uma página HTML.</li>
+                <li>A tag  <strong>table</strong> determina a criação de uma tabela</li>
+                <li>A tag <strong>tbody</strong> define o corpo da tabela</li>
+                <li>A tag define o rodapé da tabela</li>
+                <li>A tag <strong>td </strong> as células da tabela</li>
+                <li>A tag  <strong>th</strong> representa a célula de cabeçalho de uma tabela</li>
+                <li>A tag <strong>thead</strong> representa o agrupamento do conteúdo de uma tabela
+                  A tag serve para acrescentar links</li>
+                </ul>
+              <h2>Adicionando FAVICON</h2>
+              <p>Para adicionar um favicon na página, isto é, aquela imagem que fica ao lado do título da página, deveremos usar a tag:<\p>
+              </p>
+              <p>
+                link rel="shortcut icon" href= "'lugar que colocamos o link da imagem'.icon" >".
+                Um detalhe <strong>importante</strong>  é que geralmente colocamos ele na parte de cima do nosso cod.html.
+              </p>
+              <h2>COLOCANDO O CSS</h2>
+              <p>Para colocar o cod que estilize a página, a tag usada deverá ser link rel="stylesheet" href="arquivo-de-estilos.css".</p>
+        </div>
+      </div>
+        <div class="content-4">
+          <div>
+            <h2>Se você quer se tornar um desenvolverdor!</h2>
+            <h3 class="h-3">aqui vai algumas dicas!</h3>
+            <p class="p">
+            Estude e pratique com muita frequencia entenda como cada <strong>elemento</strong> funciona e para que server.
+            </p>
+            <div class="item-texto"> 
+            <div class=" texto-item2" >
+              <input type="checkbox" class="trigger-input" id="titulo-4">
+              <div class="trigger-wrapper">
+                <label for="titulo-4">
+                  <h3 class="foq-titulo">Dicas</h3>
+                </label>
+                <label class="conteudo-2">
+                  <p>Crie algumas páginas com poucos conteudos.</p>
+                  <p>Pratique coisas simples.</p>
+                  <p>Use a sua criatividade, modificando e alterando os elementos e contéudos.</p>
+                  <p>Faça projetos bem simples que você possa compreender o que foi feito no html.</p>
+                </label>
+              </div>
+            </div>
+            <div class=" texto-item2">
+              <input type="checkbox" class="trigger-input" id="titulo-5">
+              <div class="trigger-wrapper">
+                <label for="titulo-5">
+                  <h3 class="foq-titulo">Dicas</h3>
+                </label>
+                <label class="conteudo-2">
+                  <p>Estude sobre UX/IU design  .</p>
+                  <p>Entenda como seu contéudo está sendo exibido estude sobre layout, tente criar projetos apartir de templates.</p>
+                  <p>Use bastante sua criatividade.</p>
+                </label>
+              </div>
+            </div>
+            </div>
+          <div class="box-content-4">
+              <p class="p2">alguns sites para você praticar e estudar.</p>
+              <br>
+              <button class="botao"><a href="https://www.w3schools.com/html/default.asp" class="link-btn">WC3</a></button>
+              <button class="botao"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" class="link-btn">MOZILLA</a></button>
+           </div><br>
+           <div class="box-content-4">
+            <p class="p3">video aulas gratuitas pra você.</p>
+            <button class="botao2"><a href="https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n" class="link-btn">VIDEO</a></button> 
+          </div>
+          </div>
+        </div>
+        <footer>
+          <div>
+            <div>
+              <h3 class="titulo-footer">Siga-me nas redes sociais</h3>
+           </div>
+          
+             <a href="https://www.facebook.com/profile.php?id=100009024418011" class="link-image"><img src="imagem/icone_face.png" class="imag-footer"></a>
+             <a href="https://www.instagram.com/_garcialuk/?fbclid=IwAR3nabmjDkq825PEzAJMJWt-DvUQlcryz-nlkvYQXSJGuwkdz22h4mjjt2c"class="link-image"><img src="imagem/icone_insta.png" class="imag-footer"></a>
+             <a href="https://github.com/Lucasgarcc"class="link-image"><img src="imagem/icone_git.png" class="imag-footer"></a>
+             <a href="https://www.linkedin.com/in/lucas-garcia-42493622a/" class="link-image"><img src="imagem/icone_linkdin.png" class="imag-footer"></a>
+          
+           <div>
+             <span class="copyright"> 	&copy; Desenvolvido por: Lucas Garcia - 2022</span>
+           </div>
+          </div>
+        </footer>
+
+  <script>
+
+    /*selecionar o botão */
+   
+    const btnMenu = document.getElementById('btn-menu');
+   
+   /* função do botão */
+   btnMenu
+   function toggleMenu(event) {
+      if(event.type === 'touchstart') event.preventDefault();
+   
+     const nav = document.getElementById('nav');
+     nav.classList.toggle('active');
+   
+     const active = nav.classList.contains('active');
+   
+     event.currentTargert.setAttribute('aria-expanded',active);
+   
+     if(active){
+       event.currentTargert.setAttribute('aria-label', 'Fechar Menu');
+     } else {
+       event.currentTargert.setAttribute('aria-label', 'Abrir Menu');
+     }
+   }
+   
+   /* evento de clicar no botão */
+   btnMenu.addEventListener( 'click', toggleMenu);
+   
+   btnMenu.addEventListener('touchstar', toggleMenu);
+
+    /*  slide - carrosel */
+    let slideIndex = 1;
+      mostreSlides(slideIndex);
+
+    function pluslides(n){
+       mostreSlides(slideIndex += n)
+    }
+
+    function slideAtual(n){
+      mostreSlides(slideIndex =n)
+    }
+
+    function mostreSlides(n){
+      let i;
+      let slides = document.getElementsByClassName("slides");
+      let pontos = document.getElementsByClassName("ponto");
+            
+      if (n > slides.length){
+        slideIndex = 1;
+      }
+
+      if (n < 1){
+        slideIndex = slides.length;
+      }
+
+      for(i=0; i < slides.length; i++){
+        slides[i].style.display = "none";
+      }
+
+      for(i=0; i < pontos.length; i++){
+        pontos[i].className= pontos[1].className.replace(" active", "");
+      }
+      slides[slideIndex-1].style.display ="block";
+      pontos[slideIndex-1].className += " active";
+    } 
+  </script>
+</body>
+</html>
+
