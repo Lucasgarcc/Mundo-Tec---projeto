@@ -1918,9 +1918,9 @@ footer {
  }
   
  .trigger-input:checked + .trigger-wrapper .conteudo {
-  height: 215px;
+  height: 239px;
   display: block;
-}
+  }
  .div-front  h1 {
   margin: 10px 10px 10px 60px;
   font-size: 60px;
