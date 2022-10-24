@@ -1523,6 +1523,10 @@ h1{
   height: 300px;
   margin-bottom: 90px;
 }
+ .trigger-input:checked + .trigger-wrapper .conteudo {
+  height: 215px;
+  display: block;
+}
  .card:hover{
   height: 300px;
   margin-top: 30px;
