@@ -1916,7 +1916,11 @@ footer {
   top: 70px;
   font-size: 14px;
  }
-
+  
+ .trigger-input:checked + .trigger-wrapper .conteudo {
+  height: 215px;
+  display: block;
+}
  .div-front  h1 {
   margin: 10px 10px 10px 60px;
   font-size: 60px;
