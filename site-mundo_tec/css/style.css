@@ -2009,7 +2009,14 @@ footer {
  .card-1:hover{
   margin-bottom: 250px;
   }
-
+  
+  .trigger-input:checked + .trigger-wrapper .conteudo {
+    height: 239px;
+    display: block;
+  }
+ .card {
+  widht: 85%;
+  }
  .titulo-fr, h1{
   font-size: 20px;
   margin: 0 0 0 0;
