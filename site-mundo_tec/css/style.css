@@ -959,7 +959,7 @@ color: hsl(211, 100%, 9%);
   text-align: justify;
   color: hsl(211, 100%, 9%);
   }
-.sub-titulo, h3 {
+.sub-titulo h3 {
 text-align: center;
 color: hsl(0, 0%, 100%);
 font-weight: 600;
