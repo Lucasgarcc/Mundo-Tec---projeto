@@ -549,6 +549,11 @@ h1{
 .content-3 h2 {
   color: #000000;
 }
+
+.content-3 h3 {
+  color: #000000;
+}
+
 /* contéudo 4 */
 .content-4 {
   display: flex;
