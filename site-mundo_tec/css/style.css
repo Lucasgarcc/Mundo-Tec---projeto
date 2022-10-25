@@ -249,12 +249,13 @@ h1{
 }
 
 /* conteudo do content-1 */
-.texto-content1{
+.texto-content1 h3{
   font-size: 16px;
   margin-bottom: auto;
   padding: 15px;
   text-align: justify;
   font-family: 'Roboto',sans-serif;
+  color: #000000;
 
 }
 
