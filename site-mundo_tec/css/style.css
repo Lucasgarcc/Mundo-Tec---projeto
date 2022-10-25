@@ -1053,7 +1053,6 @@ flex-wrap: wrap;
 
 h2 {
 text-align: center;
-color: #ffffff;
 font-weight: 500;
 font-family: 'Inter' ,sans-serif;
 }
@@ -1917,10 +1916,6 @@ footer {
   font-size: 14px;
  }
   
- .trigger-input:checked + .trigger-wrapper .conteudo {
-  height: 243px;
-  display: block;
-  }
  .div-front  h1 {
   margin: 10px 10px 10px 60px;
   font-size: 60px;
@@ -2011,11 +2006,11 @@ footer {
   }
   
   .trigger-input:checked + .trigger-wrapper .conteudo {
-    height: 239px;
+    height: 244px;
     display: block;
   }
  .card {
-  widht: 85%;
+  widht: 90%;
   }
  .titulo-fr, h1{
   font-size: 20px;
